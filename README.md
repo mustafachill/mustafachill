@@ -4,7 +4,7 @@ WINTER IS COMING.
 
 
 <p align="left">
-  <img src="https://images-ext-1.discordapp.net/external/HBrz0oa6-uBvM5wDIxisf_isjL1o2gDdhBBcLpUhCh0/https/www.cheatsheet.com/wp-content/uploads/2018/01/giphy-5-1.gif" width="300" />
+  <img src="https://images-ext-1.discordapp.net/external/HBrz0oa6-uBvM5wDIxisf_isjL1o2gDdhBBcLpUhCh0/https/www.cheatsheet.com/wp-content/uploads/2018/01/giphy-5-1.gif" width="450" />
 </p>
 
 
