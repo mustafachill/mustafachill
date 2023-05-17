@@ -21,4 +21,4 @@ A long time ago in a galaxy far, far away...
 - [Instagram](https://www.instagram.com/mustafa.clll/)
 
 May the Force be with you! ✨
-![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](https://github.com/mustafachill/mustafachill/assets/132363597/e4f6379e-90a4-4004-98b9-e026688888cf)
