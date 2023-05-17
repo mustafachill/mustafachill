@@ -1,21 +1,20 @@
 # Hello there!🔫👋🏻
 
-WINTER IS COMING.
-
+A long time ago in a galaxy far, far away...
 
 <p align="left">
   <img src="https://images-ext-1.discordapp.net/external/HBrz0oa6-uBvM5wDIxisf_isjL1o2gDdhBBcLpUhCh0/https/www.cheatsheet.com/wp-content/uploads/2018/01/giphy-5-1.gif" width="450" />
 </p>
 
 
-🌌 Gücün karanlık tarafıyla programlama yapıyorum ve kodlarımı galaksideki maceralara dönüştürüyorum.
+🌌 I program with the power of the light side of the Force and turn my code into stars in the galaxy.
 
-💻 Bilgisayarım, benim Batcave'imdir ve klavyem Bat-sinyalimi çalmaktadır. Kod yazmak benim Gotham'ı koruma şeklimdir.
+💻 My computer is my Millennium Falcon, and my keyboard spreads my power to the universe. Writing code is my way of protecting the galaxy.
 
-📱 Telefonlar, benim oyun alanımdır ve klavyemle flutter'ı dans ettiririm. Kod yazmak benim sanatım ve geliştirdiğim uygulamalar birer sanat eseridir.
+📱 Phones are my playground, and I make Flutter dance with my keyboard. Writing code is my art, and the apps I develop are works of art.
 
 
-📫 iletişim için;
+📫 Contact me at:
 
 - [Email](mustafacilbusiness@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/mustafacil/)
