@@ -11,13 +11,13 @@ A long time ago in a galaxy far, far away...
 
 💻 My computer is my Millennium Falcon, and my keyboard spreads my power to the universe. Writing code is my way of protecting the galaxy.
 
-📱 Phones are my battlefield, and Flutter is my lightsaber. Writing code is my art, and the apps I develop are works of art.
+📱 Websites are my battlefield, and .NET is my lightsaber. Writing code is my art, and the apps I develop are works of art.
 
 
 📫 Contact me at:
 
 - [Email](mustafacilbusiness@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/mustafacil/)
-- [Instagram](https://www.instagram.com/mustafa.clll/)
+- [Instagram](https://www.instagram.com/chill.muhendis/)
 
 May the Force be with you! ✨
