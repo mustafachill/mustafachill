@@ -43,8 +43,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafacil&show_icons=true&theme=tokyonight&hide_border=true&card_width=420&hide_rank=false" width="420" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacil&layout=compact&theme=tokyonight&hide_border=true&card_width=420" width="420" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafacil&show_icons=true&theme=tokyonight&hide_border=true&card_width=420" width="420" height="220" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacil&layout=compact&theme=tokyonight&hide_border=true&card_width=420" width="420" height="220" />
 </p>
 
 ---
