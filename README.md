@@ -11,7 +11,7 @@
 - 🎯 Software Developer with strong focus on **backend (Node.js / NestJS / Express)** and **AI-driven applications**  
 - 🧠 Interested in **retrieval-augmented generation (RAG)**, **intelligent automation**, and **data-driven architectures**  
 - 🧩 Experienced with **full-stack web development**, cloud integration, and multi-platform chatbot systems  
-- 🌍 Pursuing a dual-degree in **Software Engineering** at *Fırat University* and *Sam Houston State University (UOLP)*  
+- 🌍 Pursuing a degree in **Software Engineering** at *Sam Houston State University*  
 
 ---
 
@@ -35,14 +35,10 @@
 ---
 
 ## 🧠 Current Focus  
-- Building unified backends for **multi-platform bots** (Slack, Teams, Web)  
+- Building **web & desktop applications**  
 - Researching **RAG pipeline** optimization and hybrid search systems  
 - Exploring **LLM fine-tuning** and **knowledge-centric architectures**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/💡%20Currently_Working_On-ONEDOCS_LLM_⚙️-004aad?style=for-the-badge&labelColor=0a1846&logo=github&logoColor=white" alt="Current Project Badge"/>
-</p>
-
+- Learning **Robot Operation Systems (ROS)** 
 ---
 
 ## 📊 GitHub Stats  
@@ -62,7 +58,7 @@
 
 ---
 
-> “Technology should simplify complexity — not multiply it.”  
+> “I don’t just build software — I build things that deserve to exist.”
 > — *Mustafa Çil*
 
 <!-- Footer -->
