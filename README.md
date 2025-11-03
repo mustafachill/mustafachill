@@ -59,6 +59,7 @@
 ---
 
 > “I don’t just build software — I build things that deserve to exist.”
+> 
 > — *Mustafa Çil*
 
 <!-- Footer -->
