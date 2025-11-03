@@ -1,8 +1,8 @@
 <!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1846,50:004aad,100:0077b6&height=240&section=header&text=Hi%20I'm%20Mustafa%20Çil!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<p align="center" style="margin-top: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=004AAD&center=true&vCenter=true&width=480&lines=Web+Developer;AI+Researcher;Full-Stack+Engineer;Building+Scalable+and+Smart+Systems+🚀" alt="Typing Animation" />
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=004AAD&center=true&vCenter=true&width=700&height=60&lines=Web+Developer;AI+Researcher;Full-Stack+Developer;Building+Scalable+and+Smart+Systems+🚀" alt="Typing Animation" />
 </p>
 
 ---
