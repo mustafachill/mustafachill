@@ -42,10 +42,14 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafacil&show_icons=true&theme=tokyonight&hide_border=true&card_width=420" width="420" height="220" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacil&layout=compact&theme=tokyonight&hide_border=true&card_width=420" width="420" height="220" />
-</p>
+
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; flex-wrap: wrap;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafacil&show_icons=true&theme=tokyonight&hide_border=true&card_width=420" style="height:220px; vertical-align:top;" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacil&layout=compact&theme=tokyonight&hide_border=true&card_width=420" style="height:220px; vertical-align:top;" />
+
+</div>
 
 ---
 
