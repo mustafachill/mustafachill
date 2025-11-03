@@ -43,7 +43,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafacil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Mustafa%20Çil's%20GitHub%20Stats&card_width=420" width="420" height="230" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafacil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&custom_title=Mustafa%20Çil's%20GitHub%20Stats&card_width=420" width="420" height="230" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacil&layout=compact&theme=tokyonight&hide_border=true&card_width=420&langs_count=6&custom_title=Most%20Used%20Languages" width="420" height="230" />
 </p>
 
