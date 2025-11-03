@@ -37,7 +37,11 @@
 ## 🧠 Current Focus  
 - Building unified backends for **multi-platform bots** (Slack, Teams, Web)  
 - Researching **RAG pipeline** optimization and hybrid search systems  
-- Exploring **LLM fine-tuning** and **knowledge-centric architectures**  
+- Exploring **LLM fine-tuning** and **knowledge-centric architectures**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💡%20Currently_Working_On-ONEDOCS_LLM_⚙️-004aad?style=for-the-badge&labelColor=0a1846&logo=github&logoColor=white" alt="Current Project Badge"/>
+</p>
 
 ---
 
@@ -55,6 +59,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mustafacil&color=004aad&style=for-the-badge" alt="Profile Views" />
 </p>
+
+---
+
+> “Technology should simplify complexity — not multiply it.”  
+> — *Mustafa Çil*
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:004aad,100:0a1846&height=160&section=footer" />
