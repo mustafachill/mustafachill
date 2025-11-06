@@ -8,10 +8,10 @@
 ---
 
 ## 💼 About Me  
-- 🎯 Software Developer with strong focus on **backend (Node.js / NestJS / Express)** and **AI-driven applications**  
-- 🧠 Interested in **retrieval-augmented generation (RAG)**, **intelligent automation**, and **data-driven architectures**  
-- 🧩 Experienced with **full-stack web development**, cloud integration, and multi-platform chatbot systems  
-- 🌍 Pursuing a degree in **Software Engineering** at *Sam Houston State University*  
+- Software Developer with strong focus on **backend (Node.js / NestJS / Express)** and **AI-driven applications**  
+- Interested in **retrieval-augmented generation (RAG)**, **intelligent automation**, and **data-driven architectures**  
+- Experienced with **full-stack web development**, cloud integration, and multi-platform chatbot systems  
+- Pursuing a degree in **Software Engineering** at *Sam Houston State University*  
 
 ---
 
